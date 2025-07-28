@@ -7,5 +7,6 @@ public class Main {
         if (name == "ali" && alisAge >21 ){
             System.out.println("Ignore ali");
         }
+        System.out.println("Correct");
     }
 }
